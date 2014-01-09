@@ -1,0 +1,282 @@
+[
+  {
+    "pk": 1, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Slats", 
+      "markup": "<section class=\"slats\">\r\n  <div class=\"slat\">\r\n    <p class=\"date\">March 23, 2013</p>\r\n    <h4>Title of Post</h4>\r\n    <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n  </div>\r\n  <div class=\"slat\">\r\n    <p class=\"date\">March 23, 2013</p>\r\n    <h4>Title of Post</h4>\r\n    <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n  </div>\r\n  <div class=\"slat\">\r\n    <p class=\"date\">March 23, 2013</p>\r\n    <h4>Title of Post</h4>\r\n    <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n  </div>\r\n</section>", 
+      "slug": "slats", 
+      "visible": true, 
+      "order": 10, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Slats Condensed", 
+      "markup": "<section class=\"slats condensed\">\r\n  <div class=\"slat\">\r\n    <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n  </div>\r\n  <div class=\"slat\">\r\n    <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n  </div>\r\n  <div class=\"slat\">\r\n    <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n  </div>\r\n</section>", 
+      "slug": "slats-condensed", 
+      "visible": true, 
+      "order": 20, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Thumbnail with Info", 
+      "markup": "<div class=\"thumb_info\">\r\n  <div class=\"thumb\">\r\n    <img class=\"ll\" src=\"/media/spacer.png\" data-src=\"\" />\r\n  </div>\r\n  <p class=\"info\"><a href=\"#\">Lorem Ipsum</a></p>\r\n</div>", 
+      "slug": "thumbnail-info", 
+      "visible": true, 
+      "order": 50, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 4, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Typography", 
+      "markup": "<h1>h1 Title</h1>\r\n\r\n<h2>h2 Title</h2>\r\n\r\n<h3>h3 Title</h3>\r\n\r\n<h4>h4 Title</h4>\r\n\r\n<h5>h5 Title</h5>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>\r\n\r\n<ul>\r\n  <li>Unordered List Item</li>\r\n  <li>Unordered List Item</li>\r\n  <li>Unordered List Item</li>\r\n  <li>Unordered List Item</li>\r\n  <li>Unordered List Item</li>\r\n  <li>Unordered List Item</li>\r\n</ul>\r\n\r\n<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>\r\n\r\n<ol>\r\n  <li>Ordered List Item</li>\r\n  <li>Ordered List Item</li>\r\n  <li>Ordered List Item</li>\r\n  <li>Ordered List Item</li>\r\n  <li>Ordered List Item</li>\r\n  <li>Ordered List Item</li>\r\n</ol>", 
+      "slug": "typography", 
+      "visible": true, 
+      "order": 1000, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 5, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Single Column", 
+      "markup": "<section>\r\n  <h4>Option #1 using section</h4>\r\n  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>\r\n</section>\r\n\r\n<div class=\"block\">\r\n  <h4>Option #2 using div.block</h4>\r\n  <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>\r\n</div>", 
+      "slug": "single-column", 
+      "visible": true, 
+      "order": 100, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 6, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Form Elements", 
+      "markup": "<form class=\"half\" action=\".\">\r\n  <p><em>TODO: Radio Lists</em></p>\r\n  <p>\r\n    <label class=\"desktop_only\" for=\"\">Username</label>\r\n    <input type=\"text\" name=\"username\" value=\"\" placeholder=\"Username\" />\r\n  </p>\r\n  <p>\r\n    <label class=\"desktop_only\" for=\"\">Password</label>\r\n    <input type=\"password\" name=\"password\" value=\"\" placeholder=\"Password\" />\r\n  </p>\r\n  <p class=\"checkbox\">\r\n    <label for=\"\">\r\n      <input type=\"checkbox\" name=\"remember_me\" />\r\n      Remember this password for two weeks\r\n      <em>Help Text Goes here</em>\r\n    </label>\r\n  </p>\r\n  <p>\r\n    <select>\r\n      <option>Select</option>\r\n      <option>Option 1</option>\r\n      <option>Option 2</option>\r\n      <option>Option 3</option>\r\n    </select>\r\n    <span class=\"help\">Help Text Goes here</span>\r\n  </p>\r\n\r\n  <p class=\"condensed\">Pick a Radio Button:</p>\r\n  <p class=\"condensed\">\r\n    <label for=\"\">\r\n      <input type=\"radio\" class=\"radio\" name=\"radio_group\" value=\"Radio 1\" />\r\n      Radio 1\r\n    </label>\r\n  </p>\r\n  <p class=\"condensed\">\r\n    <label for=\"\">\r\n      <input type=\"radio\" class=\"radio\" name=\"radio_group\" value=\"Radio 2\" />\r\n      Radio 2\r\n    </label>\r\n  </p>\r\n  <p>\r\n    <label for=\"\">\r\n      <input type=\"radio\" class=\"radio\" name=\"radio_group\" value=\"Radio 3\" />\r\n      Radio 3\r\n    </label>\r\n  </p>\r\n  <p class=\"condensed\"><label>Leave us a Comment</label></p>\r\n  <textarea class=\"margin_bottom2x\" rows=\"10\"></textarea>\r\n\r\n  <p><input type=\"button\" class=\"button\" value=\"Submit\" /></p>\r\n</form>", 
+      "slug": "form-elements", 
+      "visible": true, 
+      "order": 1000, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 7, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Slats with Thumbnail", 
+      "markup": "<section class=\"slats\">\r\n  <div class=\"slat thumb_info thumb_left\">\r\n    <div class=\"thumb\"><img src=\"/media/spacer.png\" /></div>\r\n    <div class=\"info\">\r\n      <p class=\"date\">March 23, 2013</p>\r\n      <h4>Title of Post</h4>\r\n      <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n     </div>\r\n  </div>\r\n\r\n  <div class=\"slat thumb_info thumb_right\">\r\n    <div class=\"thumb\"><img src=\"/media/spacer.png\" /></div>\r\n    <div class=\"info\">\r\n      <p class=\"date\">March 23, 2013</p>\r\n      <h4>Title of Post</h4>\r\n      <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n     </div>\r\n  </div>\r\n\r\n  <div class=\"slat thumb_info thumb_left\">\r\n    <div class=\"thumb\"><img src=\"/media/spacer.png\" /></div>\r\n    <div class=\"info\">\r\n      <p class=\"date\">March 23, 2013</p>\r\n      <h4>Title of Post</h4>\r\n      <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n     </div>\r\n  </div>\r\n</section>", 
+      "slug": "slats-thumbnail", 
+      "visible": true, 
+      "order": 30, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 8, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Thumbnail with Info (left)", 
+      "markup": "<div class=\"thumb_info thumb_left\">\r\n  <div class=\"thumb\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"info\">\r\n    <p class=\"date\">March 23, 2013</p>\r\n    <h4>Title of Post</h4>\r\n    <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n  </div>\r\n</div>", 
+      "slug": "thumbnail-info-thumb-left", 
+      "visible": true, 
+      "order": 60, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 9, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Thumbnail with Info (right)", 
+      "markup": "<div class=\"thumb_info thumb_right\">\r\n  <div class=\"thumb\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"info\">\r\n    <p class=\"date\">March 23, 2013</p>\r\n    <h4>Title of Post</h4>\r\n    <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n  </div>\r\n</div>", 
+      "slug": "thumbnail-info-thumb-right", 
+      "visible": true, 
+      "order": 70, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 10, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Slats with Thumbnail (no border)", 
+      "markup": "<section class=\"slats no_border\">\r\n  <div class=\"slat thumb_info thumb_left\">\r\n    <div class=\"thumb\"><img src=\"/media/spacer.png\" /></div>\r\n    <div class=\"info\">\r\n      <p class=\"date\">March 23, 2013</p>\r\n      <h4>Title of Post</h4>\r\n      <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n     </div>\r\n  </div>\r\n\r\n  <div class=\"slat thumb_info thumb_right\">\r\n    <div class=\"thumb\"><img src=\"/media/spacer.png\" /></div>\r\n    <div class=\"info\">\r\n      <p class=\"date\">March 23, 2013</p>\r\n      <h4>Title of Post</h4>\r\n      <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n     </div>\r\n  </div>\r\n\r\n  <div class=\"slat thumb_info thumb_left\">\r\n    <div class=\"thumb\"><img src=\"/media/spacer.png\" /></div>\r\n    <div class=\"info\">\r\n      <p class=\"date\">March 23, 2013</p>\r\n      <h4>Title of Post</h4>\r\n      <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>\r\n     </div>\r\n  </div>\r\n</section>", 
+      "slug": "slats-thumbnail-no-border", 
+      "visible": true, 
+      "order": 40, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 11, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "2 Column (aside + article)", 
+      "markup": "<section>\r\n  <aside class=\"column_nav\"><p>aside</p></aside>\r\n  <article class=\"column_content\"><p>article</p></article>\r\n</section>", 
+      "slug": "2-column-aside-article", 
+      "visible": true, 
+      "order": 122, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 12, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "6 Column Grid (6-3-1)", 
+      "markup": "<div class=\"column6\">\r\n  <div class=\"column\"><p>1</p></div>\r\n  <div class=\"column\"><p>2</p></div>\r\n  <div class=\"column tablet_endrow\"><p>3</p></div>\r\n  <div class=\"column tablet_startrow\"><p>4</p></div>\r\n  <div class=\"column\"><p>5</p></div>\r\n  <div class=\"column last\"><p>6</p></div>\r\n</div>", 
+      "slug": "6-column-grid-6-3-1", 
+      "visible": true, 
+      "order": 160, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 13, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "4 Column Grid (4-2-1)", 
+      "markup": "<div class=\"column4 _21\">\r\n  <div class=\"column\"><p>1</p></div>\r\n  <div class=\"column tablet_endrow\"><p>2</p></div>\r\n  <div class=\"column tablet_startrow\"><p>3</p></div>\r\n  <div class=\"column last\"><p>4</p></div>\r\n</div>", 
+      "slug": "4-column-grid-4-2-1", 
+      "visible": true, 
+      "order": 140, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 14, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "3 Column (3-3-1)", 
+      "markup": "<div class=\"column3\">\r\n  <div class=\"column\"><p>1</p></div>\r\n  <div class=\"column\"><p>2</p></div>\r\n  <div class=\"column endrow\"><p>3</p></div>\r\n  <div class=\"column startrow\"><p>1</p></div>\r\n  <div class=\"column\"><p>2</p></div>\r\n  <div class=\"column last\"><p>3</p></div>\r\n</div>", 
+      "slug": "3-column-3-3-1", 
+      "visible": true, 
+      "order": 130, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 15, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "2 Column (2-2-1)", 
+      "markup": "<div class=\"column2\">\r\n  <div class=\"column\"><p>1</p></div>\r\n  <div class=\"column endrow\"><p>2</p></div>\r\n  <div class=\"column startrow\"><p>1</p></div>\r\n  <div class=\"column last\"><p>2</p></div>\r\n</div>", 
+      "slug": "2-column-2-2-1", 
+      "visible": true, 
+      "order": 120, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 16, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Thumb with info (3 Column)", 
+      "markup": "<section class=\"column3\">\r\n  <div class=\"thumb_info column\">\r\n    <div class=\"thumb\"><img class=\"ll\" src=\"/media/spacer.png\" data-src=\"\" /></div>\r\n    <div class=\"info\"><h5>Item Title</h5></div>\r\n  </div>\r\n  <div class=\"thumb_info column\">\r\n    <div class=\"thumb\"><img class=\"ll\" src=\"/media/spacer.png\" data-src=\"\" /></div>\r\n    <div class=\"info\"><h5>Item Title</h5></div>\r\n  </div>\r\n  <div class=\"thumb_info column endrow\">\r\n    <div class=\"thumb\"><img class=\"ll\" src=\"/media/spacer.png\" data-src=\"\" /></div>\r\n    <div class=\"info\"><h5>Item Title</h5></div>\r\n  </div>\r\n  <div class=\"thumb_info column startrow\">\r\n    <div class=\"thumb\"><img class=\"ll\" src=\"/media/spacer.png\" data-src=\"\" /></div>\r\n    <div class=\"info\"><h5>Item Title</h5></div>\r\n  </div>\r\n  <div class=\"thumb_info column\">\r\n    <div class=\"thumb\"><img class=\"ll\" src=\"/media/spacer.png\" data-src=\"\" /></div>\r\n    <div class=\"info\"><h5>Item Title</h5></div>\r\n  </div>\r\n  <div class=\"thumb_info column last\">\r\n    <div class=\"thumb\"><img class=\"ll\" src=\"/media/spacer.png\" data-src=\"\" /></div>\r\n    <div class=\"info\"><h5>Item Title</h5></div>\r\n  </div>\r\n</section>\r\n", 
+      "slug": "thumb-info-3-column", 
+      "visible": true, 
+      "order": 80, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 17, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "2 Column (hold)", 
+      "markup": "<div class=\"column2 hold\">\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>  \r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n</div>", 
+      "slug": "2-column-hold", 
+      "visible": true, 
+      "order": 121, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 18, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "3 Column (hold)", 
+      "markup": "<div class=\"column3 hold\">\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>  \r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n</div>", 
+      "slug": "3-column-hold", 
+      "visible": true, 
+      "order": 131, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 19, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "4 Column (hold)", 
+      "markup": "<div class=\"column4 hold\">\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>  \r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n  <div class=\"column\"><img src=\"/media/spacer.png\" /></div>\r\n</div>", 
+      "slug": "4-column-hold", 
+      "visible": true, 
+      "order": 141, 
+      "css": ""
+    }
+  }, 
+  {
+    "pk": 20, 
+    "model": "ui_patterns.pattern", 
+    "fields": {
+      "category": null, 
+      "description": "", 
+      "title": "Pagination", 
+      "markup": "<ul class=\"paginator left\">\r\n  <li class=\"previous\"><a href=\"#\">&laquo;</a></li>\r\n  <li class=\"first\"><a href=\"#\">1</a></li>\r\n  <li><a href=\"#\">2</a></li>\r\n  <li class=\"active\"><a href=\"#\">3</a></li>\r\n  <li><a href=\"#\">4</a></li>\r\n  <li class=\"last\"><a href=\"#\">5</a></li>\r\n  <li class=\"next\"><a href=\"#\">&raquo;</a></li>\r\n</ul>", 
+      "slug": "pagination", 
+      "visible": true, 
+      "order": 1000, 
+      "css": ""
+    }
+  }
+]
